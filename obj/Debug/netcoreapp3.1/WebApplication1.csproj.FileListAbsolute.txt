@@ -1,0 +1,265 @@
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hung\Desktop\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Table\Index.cshtml.g.cs
+C:\Users\Hung\Desktop\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Typography\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Table\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Typography\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+E:\Đồ Án Công Nghệ Phần Mềm\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
